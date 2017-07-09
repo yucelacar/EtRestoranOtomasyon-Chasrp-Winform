@@ -1,0 +1,9 @@
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\bin\Debug\EtRestoran.exe.config
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\bin\Debug\EtRestoran.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\bin\Debug\EtRestoran.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.frmEtRestoran.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.Properties.Resources.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.csproj.GenerateResource.Cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\EtRestoran\EtRestoran\obj\Debug\EtRestoran.pdb
